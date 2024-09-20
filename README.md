@@ -47,4 +47,4 @@ The Betmobil project implements a car dashboard instrument panel that simulates 
    - The display includes the name, surname, and my student ID
 
 7. **Screenshot**
-![display](<Screenshot 2024-09-20 191201.png>)
+![display](<screenshot.png>)
