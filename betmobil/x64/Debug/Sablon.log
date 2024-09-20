@@ -1,0 +1,173 @@
+﻿  car.cpp
+C:\grafika\SablonZaProjekatAutomobil\sablonZaRadAutomobil\Sablon\Car.h(9,48): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\grafika\SablonZaProjekatAutomobil\sablonZaRadAutomobil\Sablon\Car.h(10,61): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\grafika\SablonZaProjekatAutomobil\sablonZaRadAutomobil\Sablon\Car.h(10,74): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\grafika\SablonZaProjekatAutomobil\sablonZaRadAutomobil\Sablon\Car.h(10,81): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\grafika\SablonZaProjekatAutomobil\sablonZaRadAutomobil\Sablon\Car.h(10,88): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\grafika\SablonZaProjekatAutomobil\sablonZaRadAutomobil\Sablon\Car.h(11,37): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\grafika\SablonZaProjekatAutomobil\sablonZaRadAutomobil\Sablon\car.cpp(247,117): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\grafika\SablonZaProjekatAutomobil\sablonZaRadAutomobil\Sablon\car.cpp(254,121): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\grafika\SablonZaProjekatAutomobil\sablonZaRadAutomobil\Sablon\car.cpp(279,36): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\grafika\SablonZaProjekatAutomobil\sablonZaRadAutomobil\Sablon\car.cpp(282,36): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\grafika\SablonZaProjekatAutomobil\sablonZaRadAutomobil\Sablon\car.cpp(285,36): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\grafika\SablonZaProjekatAutomobil\sablonZaRadAutomobil\Sablon\car.cpp(288,36): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\grafika\SablonZaProjekatAutomobil\sablonZaRadAutomobil\Sablon\car.cpp(291,36): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  main.cpp
+C:\grafika\SablonZaProjekatAutomobil\sablonZaRadAutomobil\Sablon\Car.h(9,48): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\grafika\SablonZaProjekatAutomobil\sablonZaRadAutomobil\Sablon\Car.h(10,61): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\grafika\SablonZaProjekatAutomobil\sablonZaRadAutomobil\Sablon\Car.h(10,74): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\grafika\SablonZaProjekatAutomobil\sablonZaRadAutomobil\Sablon\Car.h(10,81): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\grafika\SablonZaProjekatAutomobil\sablonZaRadAutomobil\Sablon\Car.h(10,88): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\grafika\SablonZaProjekatAutomobil\sablonZaRadAutomobil\Sablon\Car.h(11,37): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\grafika\SablonZaProjekatAutomobil\sablonZaRadAutomobil\Sablon\main.cpp(70,9): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\grafika\SablonZaProjekatAutomobil\sablonZaRadAutomobil\Sablon\main.cpp(71,9): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\grafika\SablonZaProjekatAutomobil\sablonZaRadAutomobil\Sablon\main.cpp(72,8): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\grafika\SablonZaProjekatAutomobil\sablonZaRadAutomobil\Sablon\main.cpp(73,8): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\grafika\SablonZaProjekatAutomobil\sablonZaRadAutomobil\Sablon\main.cpp(89,10): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\grafika\SablonZaProjekatAutomobil\sablonZaRadAutomobil\Sablon\main.cpp(89,16): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\grafika\SablonZaProjekatAutomobil\sablonZaRadAutomobil\Sablon\main.cpp(94,7): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\grafika\SablonZaProjekatAutomobil\sablonZaRadAutomobil\Sablon\main.cpp(94,12): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\grafika\SablonZaProjekatAutomobil\sablonZaRadAutomobil\Sablon\main.cpp(95,7): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\grafika\SablonZaProjekatAutomobil\sablonZaRadAutomobil\Sablon\main.cpp(95,12): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\grafika\SablonZaProjekatAutomobil\sablonZaRadAutomobil\Sablon\main.cpp(96,7): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\grafika\SablonZaProjekatAutomobil\sablonZaRadAutomobil\Sablon\main.cpp(96,11): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\grafika\SablonZaProjekatAutomobil\sablonZaRadAutomobil\Sablon\main.cpp(97,7): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\grafika\SablonZaProjekatAutomobil\sablonZaRadAutomobil\Sablon\main.cpp(97,11): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\grafika\SablonZaProjekatAutomobil\sablonZaRadAutomobil\Sablon\main.cpp(103,7): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\grafika\SablonZaProjekatAutomobil\sablonZaRadAutomobil\Sablon\main.cpp(103,13): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\grafika\SablonZaProjekatAutomobil\sablonZaRadAutomobil\Sablon\main.cpp(104,7): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\grafika\SablonZaProjekatAutomobil\sablonZaRadAutomobil\Sablon\main.cpp(104,13): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\grafika\SablonZaProjekatAutomobil\sablonZaRadAutomobil\Sablon\main.cpp(105,7): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\grafika\SablonZaProjekatAutomobil\sablonZaRadAutomobil\Sablon\main.cpp(105,13): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\grafika\SablonZaProjekatAutomobil\sablonZaRadAutomobil\Sablon\main.cpp(106,7): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\grafika\SablonZaProjekatAutomobil\sablonZaRadAutomobil\Sablon\main.cpp(106,13): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\grafika\SablonZaProjekatAutomobil\sablonZaRadAutomobil\Sablon\main.cpp(111,8): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\grafika\SablonZaProjekatAutomobil\sablonZaRadAutomobil\Sablon\main.cpp(111,13): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\grafika\SablonZaProjekatAutomobil\sablonZaRadAutomobil\Sablon\main.cpp(112,8): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\grafika\SablonZaProjekatAutomobil\sablonZaRadAutomobil\Sablon\main.cpp(112,13): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\grafika\SablonZaProjekatAutomobil\sablonZaRadAutomobil\Sablon\main.cpp(113,8): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\grafika\SablonZaProjekatAutomobil\sablonZaRadAutomobil\Sablon\main.cpp(113,13): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\grafika\SablonZaProjekatAutomobil\sablonZaRadAutomobil\Sablon\main.cpp(114,8): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\grafika\SablonZaProjekatAutomobil\sablonZaRadAutomobil\Sablon\main.cpp(114,13): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\grafika\SablonZaProjekatAutomobil\sablonZaRadAutomobil\Sablon\main.cpp(120,8): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\grafika\SablonZaProjekatAutomobil\sablonZaRadAutomobil\Sablon\main.cpp(120,13): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\grafika\SablonZaProjekatAutomobil\sablonZaRadAutomobil\Sablon\main.cpp(121,8): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\grafika\SablonZaProjekatAutomobil\sablonZaRadAutomobil\Sablon\main.cpp(121,13): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\grafika\SablonZaProjekatAutomobil\sablonZaRadAutomobil\Sablon\main.cpp(122,8): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\grafika\SablonZaProjekatAutomobil\sablonZaRadAutomobil\Sablon\main.cpp(123,8): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\grafika\SablonZaProjekatAutomobil\sablonZaRadAutomobil\Sablon\main.cpp(129,7): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\grafika\SablonZaProjekatAutomobil\sablonZaRadAutomobil\Sablon\main.cpp(129,11): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\grafika\SablonZaProjekatAutomobil\sablonZaRadAutomobil\Sablon\main.cpp(130,12): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\grafika\SablonZaProjekatAutomobil\sablonZaRadAutomobil\Sablon\main.cpp(131,7): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\grafika\SablonZaProjekatAutomobil\sablonZaRadAutomobil\Sablon\main.cpp(131,12): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\grafika\SablonZaProjekatAutomobil\sablonZaRadAutomobil\Sablon\main.cpp(132,7): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\grafika\SablonZaProjekatAutomobil\sablonZaRadAutomobil\Sablon\main.cpp(133,6): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\grafika\SablonZaProjekatAutomobil\sablonZaRadAutomobil\Sablon\main.cpp(134,6): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\grafika\SablonZaProjekatAutomobil\sablonZaRadAutomobil\Sablon\main.cpp(134,11): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\grafika\SablonZaProjekatAutomobil\sablonZaRadAutomobil\Sablon\main.cpp(135,11): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\grafika\SablonZaProjekatAutomobil\sablonZaRadAutomobil\Sablon\main.cpp(136,6): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\grafika\SablonZaProjekatAutomobil\sablonZaRadAutomobil\Sablon\main.cpp(136,10): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\grafika\SablonZaProjekatAutomobil\sablonZaRadAutomobil\Sablon\main.cpp(142,15): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\grafika\SablonZaProjekatAutomobil\sablonZaRadAutomobil\Sablon\main.cpp(143,16): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\grafika\SablonZaProjekatAutomobil\sablonZaRadAutomobil\Sablon\main.cpp(225,14): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\grafika\SablonZaProjekatAutomobil\sablonZaRadAutomobil\Sablon\main.cpp(233,74): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\grafika\SablonZaProjekatAutomobil\sablonZaRadAutomobil\Sablon\main.cpp(234,36): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\grafika\SablonZaProjekatAutomobil\sablonZaRadAutomobil\Sablon\main.cpp(281,13): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\grafika\SablonZaProjekatAutomobil\sablonZaRadAutomobil\Sablon\main.cpp(320,26): warning C4305: '+=': truncation from 'double' to 'float'
+C:\grafika\SablonZaProjekatAutomobil\sablonZaRadAutomobil\Sablon\main.cpp(326,26): warning C4305: '-=': truncation from 'double' to 'float'
+C:\grafika\SablonZaProjekatAutomobil\sablonZaRadAutomobil\Sablon\main.cpp(332,26): warning C4305: '-=': truncation from 'double' to 'float'
+C:\grafika\SablonZaProjekatAutomobil\sablonZaRadAutomobil\Sablon\main.cpp(338,26): warning C4305: '+=': truncation from 'double' to 'float'
+C:\grafika\SablonZaProjekatAutomobil\sablonZaRadAutomobil\Sablon\main.cpp(370,48): warning C4244: 'argument': conversion from 'double' to 'GLsizei', possible loss of data
+C:\grafika\SablonZaProjekatAutomobil\sablonZaRadAutomobil\Sablon\main.cpp(385,48): warning C4244: 'argument': conversion from 'double' to 'GLsizei', possible loss of data
+C:\grafika\SablonZaProjekatAutomobil\sablonZaRadAutomobil\Sablon\main.cpp(397,48): warning C4244: 'argument': conversion from 'double' to 'GLsizei', possible loss of data
+C:\grafika\SablonZaProjekatAutomobil\sablonZaRadAutomobil\Sablon\main.cpp(414,46): warning C4244: 'argument': conversion from 'double' to 'GLsizei', possible loss of data
+C:\grafika\SablonZaProjekatAutomobil\sablonZaRadAutomobil\Sablon\main.cpp(442,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\grafika\SablonZaProjekatAutomobil\sablonZaRadAutomobil\Sablon\main.cpp(447,102): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\grafika\SablonZaProjekatAutomobil\sablonZaRadAutomobil\Sablon\main.cpp(447,93): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\grafika\SablonZaProjekatAutomobil\sablonZaRadAutomobil\Sablon\main.cpp(448,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\grafika\SablonZaProjekatAutomobil\sablonZaRadAutomobil\Sablon\main.cpp(484,49): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\grafika\SablonZaProjekatAutomobil\sablonZaRadAutomobil\Sablon\main.cpp(496,29): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\grafika\SablonZaProjekatAutomobil\sablonZaRadAutomobil\Sablon\main.cpp(501,29): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\grafika\SablonZaProjekatAutomobil\sablonZaRadAutomobil\Sablon\main.cpp(505,29): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\grafika\SablonZaProjekatAutomobil\sablonZaRadAutomobil\Sablon\main.cpp(511,26): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\grafika\SablonZaProjekatAutomobil\sablonZaRadAutomobil\Sablon\main.cpp(512,48): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  TestBed.cpp
+C:\grafika\SablonZaProjekatAutomobil\sablonZaRadAutomobil\Sablon\Car.h(9,48): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\grafika\SablonZaProjekatAutomobil\sablonZaRadAutomobil\Sablon\Car.h(10,61): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\grafika\SablonZaProjekatAutomobil\sablonZaRadAutomobil\Sablon\Car.h(10,74): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\grafika\SablonZaProjekatAutomobil\sablonZaRadAutomobil\Sablon\Car.h(10,81): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\grafika\SablonZaProjekatAutomobil\sablonZaRadAutomobil\Sablon\Car.h(10,88): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\grafika\SablonZaProjekatAutomobil\sablonZaRadAutomobil\Sablon\Car.h(11,37): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\grafika\SablonZaProjekatAutomobil\sablonZaRadAutomobil\Sablon\TestBed.cpp(42,22): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\grafika\SablonZaProjekatAutomobil\sablonZaRadAutomobil\Sablon\TestBed.cpp(49,45): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\grafika\SablonZaProjekatAutomobil\sablonZaRadAutomobil\Sablon\TestBed.cpp(50,114): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\grafika\SablonZaProjekatAutomobil\sablonZaRadAutomobil\Sablon\TestBed.cpp(54,18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\grafika\SablonZaProjekatAutomobil\sablonZaRadAutomobil\Sablon\TestBed.cpp(67,22): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\grafika\SablonZaProjekatAutomobil\sablonZaRadAutomobil\Sablon\TestBed.cpp(75,45): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\grafika\SablonZaProjekatAutomobil\sablonZaRadAutomobil\Sablon\TestBed.cpp(76,114): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\grafika\SablonZaProjekatAutomobil\sablonZaRadAutomobil\Sablon\TestBed.cpp(85,45): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\grafika\SablonZaProjekatAutomobil\sablonZaRadAutomobil\Sablon\TestBed.cpp(86,114): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\grafika\SablonZaProjekatAutomobil\sablonZaRadAutomobil\Sablon\TestBed.cpp(105,45): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\grafika\SablonZaProjekatAutomobil\sablonZaRadAutomobil\Sablon\TestBed.cpp(106,114): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\grafika\SablonZaProjekatAutomobil\sablonZaRadAutomobil\Sablon\TestBed.cpp(112,41): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\grafika\SablonZaProjekatAutomobil\sablonZaRadAutomobil\Sablon\TestBed.cpp(113,57): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\grafika\SablonZaProjekatAutomobil\sablonZaRadAutomobil\Sablon\TestBed.cpp(213,49): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\grafika\SablonZaProjekatAutomobil\sablonZaRadAutomobil\Sablon\TestBed.cpp(214,127): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\grafika\SablonZaProjekatAutomobil\sablonZaRadAutomobil\Sablon\TestBed.cpp(240,30): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\grafika\SablonZaProjekatAutomobil\sablonZaRadAutomobil\Sablon\TestBed.cpp(261,49): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\grafika\SablonZaProjekatAutomobil\sablonZaRadAutomobil\Sablon\TestBed.cpp(295,49): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\grafika\SablonZaProjekatAutomobil\sablonZaRadAutomobil\Sablon\TestBed.cpp(296,129): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\grafika\SablonZaProjekatAutomobil\sablonZaRadAutomobil\Sablon\TestBed.cpp(304,49): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\grafika\SablonZaProjekatAutomobil\sablonZaRadAutomobil\Sablon\TestBed.cpp(305,129): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\grafika\SablonZaProjekatAutomobil\sablonZaRadAutomobil\Sablon\TestBed.cpp(310,45): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\grafika\SablonZaProjekatAutomobil\sablonZaRadAutomobil\Sablon\TestBed.cpp(311,125): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  Sablon.vcxproj -> C:\grafika\SablonZaProjekatAutomobil\sablonZaRadAutomobil\Sablon\x64\Debug\Sablon.exe

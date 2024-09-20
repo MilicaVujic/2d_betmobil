@@ -1,0 +1,2 @@
+C:\grafika\SablonZaProjekatAutomobil\sablonZaRadAutomobil\Sablon\x64\Debug\glew32.dll
+C:\grafika\SablonZaProjekatAutomobil\sablonZaRadAutomobil\Sablon\x64\Debug\Sablon.exe
